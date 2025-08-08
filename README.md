@@ -24,6 +24,7 @@ I created this GitHub repo to:
 
 - Language: Python 
 - IDE: VS Code / any basic text editor
+- YOUTUBE VIDEOS FROM BROCODE(Python Full Course for free 🐍 (2024)
 
 ## 🙌 Stay Tuned
 
